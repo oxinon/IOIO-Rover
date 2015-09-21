@@ -58,4 +58,7 @@ App and Source Code on PlayStore link: https://play.google.com/store/apps/detail
 
 github:  https://github.com/akexorcist/IOIO-CameraRobot/
 
+Licensed under the Apache License:
+http://www.apache.org/licenses/LICENSE-2.0
+
 
