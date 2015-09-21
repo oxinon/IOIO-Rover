@@ -53,6 +53,8 @@ This is my IOIO and 2x driver L293D boards built in a case and mounting on the c
 ##<a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions
 
 ##<a name="credit"></a>Credit / Source
-
+Good inspiration from Inex, this is the app which was rebuilt for my Robot.
+App and Source Code on PlayStore link: https://play.google.com/store/apps/details?id=app.akexorcist.ioiocamerarobot&hl=en
+github:  https://github.com/akexorcist/IOIO-CameraRobot/
 
 
