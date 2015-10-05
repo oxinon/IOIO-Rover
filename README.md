@@ -1,5 +1,5 @@
 # IOIO Rover
-Androidt Rover with IOIO board and l293d motor driver ICs (2x for 4WD)
+Android Rover with IOIO board and two l293d motor driver ICs (2x for 4WD)
 
 
 * * *
