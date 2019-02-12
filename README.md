@@ -47,7 +47,7 @@ Pinout from IOIO to L293d
 
 
 This is my IOIO and 2x driver L293D boards built in a case and mounting on the chassis 
-<p><a href="http://www.joeatx247.de/wp-content/uploads/2015/02/IOIO-4WD-Robot-shematic-v1.png"><img src="http://www.joeatx247.de/wp-content/uploads/2015/02/IMG_1276-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
+<p><a href="https://oxinon.com/wp-content/uploads/2018/11/IMG_1278-1024x768.jpg"><img src="https://oxinon.com/wp-content/uploads/2018/11/IMG_1278-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
 
 
 ##<a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions
