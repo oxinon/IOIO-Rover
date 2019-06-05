@@ -17,7 +17,7 @@ Android Rover with IOIO board and two l293d motor driver ICs (2x for 4WD)
 In this video I show you the drive with chains and 4 wheel. I was so outdoors, indoors and a panoramic view this project https://www.youtube.com/watch?v=rT1MDyTA88E.
 
 
-<H3>Items needed<H3/>
+<H3>Items needed</H3>
 
 + IOIO + BT dongle
 + 2x Android Smartphone or Tablet
@@ -26,7 +26,7 @@ In this video I show you the drive with chains and 4 wheel. I was so outdoors, i
 + Battery 6V (I use 7,2V LiPo battery, most 6V motors can handle this)
 + Robot chassis  (my parts from http://www.makeblock.cc/)
 
-##<a name="instructionshard"></a>Hardware Instructions
+<H3>Hardware Instructions</H3>
 
 Connect pins of your IOIO Board to the Part swith the following assignment, here is the schematic of the parts Design with Fritzing (http://fritzing.org)
 
@@ -48,10 +48,9 @@ Pinout from IOIO to L293d
 This is my IOIO and 2x driver L293D boards built in a case and mounting on the chassis 
 <p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1280-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
 
+<H3><a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions</H3>
 
-##<a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions
-
-##<a name="credit"></a>Credit / Source
+<H3><a name="credit"></a>Credit / Source</H3>
 Good inspiration from Inex, this is the app which was rebuilt for my Robot.
 App and Source Code on PlayStore link: https://play.google.com/store/apps/details?id=app.akexorcist.ioiocamerarobot&hl=en
 
