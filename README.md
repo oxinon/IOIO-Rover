@@ -11,14 +11,13 @@ Android Rover with IOIO board and two l293d motor driver ICs (2x for 4WD)
 
 * * *
 
-##<a name="youtube"></a>See this Android 4WD Robot in acton on Youtube
 
-<p><img src="https://oxinon.com/wp-content/uploads/2018/11/ioio-Rover.png" alt="Android-ioio-RC-4WD-Robot" width="600"></a></p>
+<p><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/ioio-Rover.png" alt="Android-ioio-RC-4WD-Robot" width="600"></a></p>
 
 In this video I show you the drive with chains and 4 wheel. I was so outdoors, indoors and a panoramic view this project https://www.youtube.com/watch?v=rT1MDyTA88E.
 
 
-##<a name="itemsNeeded"></a>Items needed
+<H3>Items needed<H3/>
 
 + IOIO + BT dongle
 + 2x Android Smartphone or Tablet
@@ -32,7 +31,7 @@ In this video I show you the drive with chains and 4 wheel. I was so outdoors, i
 Connect pins of your IOIO Board to the Part swith the following assignment, here is the schematic of the parts Design with Fritzing (http://fritzing.org)
 
 
-<p><a href="https://oxinon.com/wp-content/uploads/2018/11/IOIO-4WD-Robot-shematic-v1.2.png"><img src="https://oxinon.com/wp-content/uploads/2018/11/IOIO-4WD-Robot-shematic-v1.2.png" alt="ioio l293D schematic" width="800"></a></p>
+<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IOIO-4WD-Robot-shematic-v1.2.png"><img src="https://oxinon.com/wp-content/uploads/2018/11/IOIO-4WD-Robot-shematic-v1.2.png" alt="ioio l293D schematic" width="800"></a></p>
 
 Pinout from IOIO to L293d
 
@@ -47,7 +46,7 @@ Pinout from IOIO to L293d
 
 
 This is my IOIO and 2x driver L293D boards built in a case and mounting on the chassis 
-<p><a href="https://oxinon.com/wp-content/uploads/2018/11/IMG_1278-1024x768.jpg"><img src="https://oxinon.com/wp-content/uploads/2018/11/IMG_1278-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
+<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1280-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
 
 
 ##<a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions
