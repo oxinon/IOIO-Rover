@@ -31,7 +31,7 @@ In this video I show you the drive with chains and 4 wheel. I was so outdoors, i
 Connect pins of your IOIO Board to the Part swith the following assignment, here is the schematic of the parts Design with Fritzing (http://fritzing.org)
 
 
-<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IOIO-4WD-Robot-shematic-v1.2.png"><img src="https://oxinon.com/wp-content/uploads/2018/11/IOIO-4WD-Robot-shematic-v1.2.png" alt="ioio l293D schematic" width="800"></a></p>
+<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IOIO-4WD-Robot-shematic-v1.2.png"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IOIO-4WD-Robot-shematic-v1.2.png" alt="ioio l293D schematic" width="800"></a></p>
 
 Pinout from IOIO to L293d
 
@@ -46,7 +46,7 @@ Pinout from IOIO to L293d
 
 
 This is my IOIO and 2x driver L293D boards built in a case and mounting on the chassis 
-<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1280-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
+<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
 
 <H3><a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions</H3>
 
