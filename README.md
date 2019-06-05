@@ -48,6 +48,8 @@ Pinout from IOIO to L293d
 This is my IOIO and 2x driver L293D boards built in a case and mounting on the chassis 
 <p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1276-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
 
+<p><a href="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1280-1024x768.jpg"><img src="https://github.com/oxinon/IOIO-Rover/blob/master/picture/IMG_1280-1024x768.jpg" alt="ioio l293D schematic" width="800"></a></p>
+
 <H3><a name="instructionsapp"></a>Android Robot+ 2.1 App Instructions</H3>
 
 <H3><a name="credit"></a>Credit / Source</H3>
